@@ -1,0 +1,39 @@
+2022-03-29 16:42:24,516 [main] INFO demo - Opening browser
+2022-03-29 16:42:24,905 [main] INFO demo - maximizing
+2022-03-29 16:42:27,737 [main] INFO demo - app launch
+2022-03-29 16:42:27,880 [main] INFO demo - sending uID
+2022-03-29 16:42:28,098 [main] INFO demo - send password
+2022-03-29 16:42:28,208 [main] INFO demo - click
+2022-03-29 16:42:28,540 [main] INFO demo - entering pin
+2022-03-29 16:42:28,647 [main] INFO demo - continue
+2022-03-29 16:42:31,935 [main] INFO demo - gettext
+2022-03-29 18:06:37,910 [main] INFO demo - Opening browser
+2022-03-29 18:06:38,165 [main] INFO demo - maximizing
+2022-03-29 18:06:40,749 [main] INFO demo - app launch
+2022-03-30 09:17:15,905 [main] INFO demo - Opening browser
+2022-03-30 09:17:16,365 [main] INFO demo - maximizing
+2022-03-30 09:17:21,650 [main] INFO demo - app launch
+2022-03-30 09:17:21,969 [main] INFO demo - sending uID
+2022-03-30 09:17:22,250 [main] INFO demo - send password
+2022-03-30 09:17:22,373 [main] INFO demo - click
+2022-03-30 09:17:22,695 [main] INFO demo - entering pin
+2022-03-30 09:17:22,792 [main] INFO demo - continue
+2022-03-30 09:17:24,770 [main] INFO demo - gettext
+2022-04-08 22:01:51,910 [main] INFO demo - Opening browser
+2022-04-08 22:01:52,253 [main] INFO demo - maximizing
+2022-04-08 22:02:00,947 [main] INFO demo - app launch
+2022-04-08 22:02:01,177 [main] INFO demo - sending uID
+2022-04-08 22:02:01,351 [main] INFO demo - send password
+2022-04-08 22:02:01,453 [main] INFO demo - click
+2022-04-08 22:02:04,242 [main] INFO demo - entering pin
+2022-04-08 22:02:04,424 [main] INFO demo - continue
+2022-04-08 22:02:15,670 [main] INFO demo - gettext
+2022-05-07 12:42:33,669 [main] INFO demo - Opening browser
+2022-05-07 12:42:34,031 [main] INFO demo - maximizing
+2022-05-07 12:42:40,996 [main] INFO demo - app launch
+2022-05-07 12:42:43,141 [main] INFO demo - sending uID
+2022-05-07 12:42:43,783 [main] INFO demo - send password
+2022-05-07 12:42:45,403 [main] INFO demo - click
+2022-05-07 12:42:46,378 [main] INFO demo - entering pin
+2022-05-07 12:42:46,707 [main] INFO demo - continue
+2022-05-07 12:42:52,004 [main] INFO demo - gettext

@@ -1,0 +1,39 @@
+2022-03-29 16:42:24,516 - demo -INFO - Opening browser
+2022-03-29 16:42:24,905 - demo -INFO - maximizing
+2022-03-29 16:42:27,737 - demo -INFO - app launch
+2022-03-29 16:42:27,880 - demo -INFO - sending uID
+2022-03-29 16:42:28,098 - demo -INFO - send password
+2022-03-29 16:42:28,208 - demo -INFO - click
+2022-03-29 16:42:28,540 - demo -INFO - entering pin
+2022-03-29 16:42:28,647 - demo -INFO - continue
+2022-03-29 16:42:31,935 - demo -INFO - gettext
+2022-03-29 18:06:37,910 - demo -INFO - Opening browser
+2022-03-29 18:06:38,165 - demo -INFO - maximizing
+2022-03-29 18:06:40,749 - demo -INFO - app launch
+2022-03-30 09:17:15,905 - demo -INFO - Opening browser
+2022-03-30 09:17:16,365 - demo -INFO - maximizing
+2022-03-30 09:17:21,650 - demo -INFO - app launch
+2022-03-30 09:17:21,969 - demo -INFO - sending uID
+2022-03-30 09:17:22,250 - demo -INFO - send password
+2022-03-30 09:17:22,373 - demo -INFO - click
+2022-03-30 09:17:22,695 - demo -INFO - entering pin
+2022-03-30 09:17:22,792 - demo -INFO - continue
+2022-03-30 09:17:24,770 - demo -INFO - gettext
+2022-04-08 22:01:51,910 - demo -INFO - Opening browser
+2022-04-08 22:01:52,253 - demo -INFO - maximizing
+2022-04-08 22:02:00,947 - demo -INFO - app launch
+2022-04-08 22:02:01,177 - demo -INFO - sending uID
+2022-04-08 22:02:01,351 - demo -INFO - send password
+2022-04-08 22:02:01,453 - demo -INFO - click
+2022-04-08 22:02:04,242 - demo -INFO - entering pin
+2022-04-08 22:02:04,424 - demo -INFO - continue
+2022-04-08 22:02:15,670 - demo -INFO - gettext
+2022-05-07 12:42:33,669 - demo -INFO - Opening browser
+2022-05-07 12:42:34,031 - demo -INFO - maximizing
+2022-05-07 12:42:40,996 - demo -INFO - app launch
+2022-05-07 12:42:43,141 - demo -INFO - sending uID
+2022-05-07 12:42:43,783 - demo -INFO - send password
+2022-05-07 12:42:45,403 - demo -INFO - click
+2022-05-07 12:42:46,378 - demo -INFO - entering pin
+2022-05-07 12:42:46,707 - demo -INFO - continue
+2022-05-07 12:42:52,004 - demo -INFO - gettext
